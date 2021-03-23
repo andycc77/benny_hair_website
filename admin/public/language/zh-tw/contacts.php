@@ -1,0 +1,22 @@
+<?
+$lang['contacts'] = "聯絡我們";
+$lang['cooperate'] = "廠商合作";
+$lang['subtitle'] = "若有任何疑問，歡迎您隨時提出,我們將於三個工作天內(不含六日)回覆您的提問!";
+$lang['member'] = "會員";
+$lang['NotMember'] = "非會員";
+$lang['EnterYourName'] = "請輸入 姓名";
+$lang['EnterYourEmail'] = "請輸入 Email";
+$lang['EnterYourPhone'] = "請輸入 電話";
+$lang['EnterTitle'] = "請輸入 問題標題";
+$lang['EnterContent'] = "請輸入 問題內容";
+$lang['DataSubmit'] = "資料送出中";
+$lang['ThankYou'] = "謝謝您 , 我們會盡快與您聯絡";
+$lang['ans1'] = "申請兌換MY CARD需要三~五個工作天喔(工作天不含國定假日)";
+$lang['ans2'] = "請至以下專屬兌換網址兌換 http://apps.facebook.com/mycardpoints/";
+$lang['name'] = "姓名";
+$lang['email'] = "Email";
+$lang['phone'] = "電話";
+$lang['title'] = "問題標題";
+$lang['content'] = "問題內容";
+$lang['submit'] = "送出";
+$lang['reset'] = "重置";

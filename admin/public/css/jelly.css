@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+div .jelly_home_news{ float:left; width:196px; height:200px; border:0px solid #F00;}
+
+jelly_home_news
+div .column-3 .jelly_home_product{ width:98px; float:left!important; margin:0px 6px 0px 0px;}
+div .column-3 .cr{ margin:0px 0px 0px 0px;}
+div .column-3 .jelly_home_product img{ margin:0px; }
+div .column-3 .jelly_home_product p{ margin:0px; }
+
+
+.imh{ display:block !important; clear:both !important;}
+
+
+.otherlink{ margin-top:20px 0 10px;}
+.otherlink ul{ margin-top:10px;}
+.otherlink ul li{ padding-left:20px; list-style:disc; list-style-position:inside; }
+.otherlink ul li a:link{ color:#666; }
+.otherlink ul li a:visited{ color:#666; }
+.otherlink ul li a:hover{ color:#a7ca58; }
+
+.otherpic{ margin:10px 0 20px;}
+.otherpic ul{ margin-top:10px;}
+.otherpic ul li{ float:left; width:150px; margin:0 10px 10px 0;}
+.otherpic ul li img {width:150px;}
+
+.delprice{ text-decoration:line-through;}
+
+.mycart input{ width:300px;}
+.mycart .num{ width:30px; text-align:center; }
+.mycart .zip{ width:36px; text-align:center; }
+.mycart select{ margin-bottom:10px;}
+.mycart textarea{ width:300px; height:80px; }
+.mycart input[type='checkbox']{ width:auto;}
+
+.lbwindow{ position:fixed; top:0px; left:0px; z-index:50000; background-color:#000; filter:alpha(opacity=50); -moz-opacity:0.5; opacity: 0.5; width:2000px; height:2000px; display:none;}
+#lbwmain{ position:fixed; top:50%; left:50%; margin-left:-470px; margin-top:-250px; width:940px; height:500px; z-index:55000; display:none; border:0px;}
+
+
+.godmode{ position:fixed; left:0px; width:200px; border:2px solid #09F; padding:5px;}
+.godmode input{ width:100px;}
+
+
+
+div.meminvite { float:right; width:300px; height:280px;margin-bottom:20px; overflow:hidden; }
+div.meminvite .meminvite_logo { }
+div.meminvite .meminvite_tag { clear:both;}
+div.meminvite .meminvite_tag li{ float:left; font-size:14px; padding:3px 10px; cursor:pointer; }
+div.meminvite .meminvite_tag li.active{ background-color:#F00; color:#FFF;}
+div.meminvite .meminvite_list { clear:both;  border-top:1px dashed #F00; position:relative;  }
+div.meminvite .meminvite_list li{ position:absolute; top:0px; left:0px; padding:10px; background-color:#FFF; font-size:14px; display:none;}
+div.meminvite .meminvite_list li td{ padding:3px;}
+div.meminvite .meminvite_list li td.imr{ text-align:right;}
+
+.show_lows{ height:200px; width:100%; overflow:auto;}
+.btn-submit{ width:168px; background-image:url(../img/reg-submit.png);}
+
