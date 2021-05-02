@@ -213,7 +213,7 @@ function textLimit($subject,$strlen,$killhtml='') {
                     <!-- End search form -->
 
                     <ul class="pi-menu-mobile pi-menu-mobile-dark">
-                        <li><a href="<?echo site_url("/welcome") ?>">首頁</a></li>
+                        <li><a href="<?php echo site_url("/welcome") ?>">首頁</a></li>
                         <li>
                             <a href="<?php echo site_url("/welcome#aboutme") ?>">關於Benny</a>
                             <!--<ul>

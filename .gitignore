@@ -1,0 +1,6 @@
+.idea/
+admin/public/upload/album_pic/*.jpg
+admin/public/upload/tmp/*.jpg
+admin/public/upload_file/img/*.jpg
+#public/img
+#public/img_external
